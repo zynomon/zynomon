@@ -1,4 +1,4 @@
-<img src="https://github.com/zynomon/zynomon/blob/main/icons/logo.svg" alt="zynomon-text" style="width:1000px;">
+z
 
 <p align="center">
   <a href="https://zynomon.github.io/zynomon">
