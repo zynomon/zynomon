@@ -2,7 +2,7 @@ zynomon?
 
 
 <p align="center">
-  <a href="https://zynomon.github.io/zynomon">
+  <a href="https://zynomon.github.io/">
     <img src="https://img.shields.io/badge/Visit%20Website-blue?style=plastic&logo=google-chrome&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/Status-Beta-yellow?style=plastic&logo=progress">
