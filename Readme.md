@@ -19,3 +19,22 @@ zynomon?
     <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=plastic&logo=discord&logoColor=white">
   </a>
 </p>
+
+
+ <a href="https://github.com/zynomon/onu">
+    <img src="https://img.shields.io/github/forks/zynomon/zynomon?style=plastic&logo=internet">
+    <img src=" ">
+  </a>
+  
+```Yo wsp ?
+---
+# >  if you look away you will look away
+## > grinding will make you more grinder than blender
+### > be careful before ful needs you
+## > have fun enjoying this world
+# > to see more projects ( out side of software stuffs ) of mine at link repo
+## > i do not need portfolio because i don't have a recognizable profile
+### >  however i get bored sooner than ever.
+## > if you read this then you are definitely feeling pain in your head
+# > Don't worry it's intended. 
+```
