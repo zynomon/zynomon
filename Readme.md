@@ -22,8 +22,7 @@ zynomon?
 
 
  <a href="https://github.com/zynomon/onu">
-    <img src="https://img.shields.io/github/forks/zynomon/zynomon?style=plastic&logo=internet">
-    <img src=" ">
+    <img src="https://img.shields.io/zynomon?style=plastic&logo=internet">
   </a>
   
 ```Yo wsp ?
