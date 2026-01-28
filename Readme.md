@@ -21,8 +21,10 @@ zynomon?
 </p>
 
   
-```Yo wsp ?
----
+```
+Yo wsp ?, 
+---------
+
 # >  if you look away you will look away
 ## > grinding will make you more grinder than blender
 ### > be careful before ful needs you
@@ -33,3 +35,6 @@ zynomon?
 ## > if you read this then you are definitely feeling pain in your head
 # > Don't worry it's intended. 
 ```
+
+---
+# only sleep when you have time to, 
