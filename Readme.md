@@ -20,10 +20,6 @@ zynomon?
   </a>
 </p>
 
-
- <a href="https://github.com/zynomon/onu">
-    <img src="https://img.shields.io/zynomon?style=plastic&logo=internet">
-  </a>
   
 ```Yo wsp ?
 ---
