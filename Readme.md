@@ -36,5 +36,4 @@ Yo wsp ?,
 # > Don't worry it's intended. 
 ```
 
----
-# only sleep when you have time to, 
+--- 
