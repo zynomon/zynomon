@@ -29,6 +29,10 @@ zynomon?
 [![Linux](https://img.shields.io/badge/-FCC624?logo=linux&logoColor=black)](#)
 [![Bash](https://img.shields.io/badge/-4EAA25?logo=gnubash&logoColor=fff)](#)
 [![C++](https://img.shields.io/badge/-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Qt](https://img.shields.io/badge/-2CDE85?logo=Qt&logoColor=fff)](#)
+[![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=000)](#)
+[![HTML](https://img.shields.io/badge/-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/-639?logo=css&logoColor=fff)](#)
   
 ```
 Yo wsp ?, 
