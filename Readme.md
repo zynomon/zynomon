@@ -6,7 +6,7 @@ zynomon?
   <a href="https://zynomon.github.io/">
     <img src="https://img.shields.io/badge/Visit%20Website-blue?style=plastic&logo=google-chrome&logoColor=white">
   </a>
-  <img src="https://img.shields.io/badge/License-Apache%202.0-green?style=plastic&logo=open-source-initiative&logoColor=white">
+  <img src="https://img.shields.io/badge/FAV-License-Apache%202.0-green?style=plastic&logo=open-source-initiative&logoColor=white">
   <img src="https://hits.sh/github.com/zynomon/zynomon.svg?style=plastic&label=visits&logo=github&logoColor=white">
   <a href="https://github.com/zynomon/zynomon">
     <img src="https://img.shields.io/github/stars/zynomon/zynomon?style=plastic&logo=github">
