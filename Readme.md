@@ -2,7 +2,7 @@ zynomon?
 
 
 <p align="center">
-  <img width="1123" height="794" alt="just a test image " src="https://github.com/user-attachments/assets/c6946632-67ae-4240-b5f4-9c8eafbb1573" />
+  <img width="1123" height="794" alt="just a test image " src="https://github.com/zynomon/zynomon/raw/main/cool-image.svg" />
 
   <a href="https://zynomon.github.io/">
     <img src="https://img.shields.io/badge/Visit%20Website-blue?style=plastic&logo=google-chrome&logoColor=white">
