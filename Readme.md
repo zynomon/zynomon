@@ -1,8 +1,7 @@
 zynomon?
 
-
 <p align="center">
-  <img width="1123" height="794" alt="just a test image " src="https://github.com/zynomon/zynomon/raw/main/cool-image.svg" />
+  <img width="1123" height="794" alt="just a test image" src="https://github.com/zynomon/zynomon/raw/main/cool-image.svg" />
 
   <a href="https://zynomon.github.io/">
     <img src="https://img.shields.io/badge/Visit%20Website-blue?style=plastic&logo=google-chrome&logoColor=white">
@@ -11,6 +10,7 @@ zynomon?
   <img src="https://img.shields.io/badge/License-Apache%202.0-green?style=plastic&logo=open-source-initiative&logoColor=white">
   <img src="https://img.shields.io/badge/Platform-Linux-orange?style=plastic&logo=linux&logoColor=white">
   <img src="https://hits.sh/github.com/zynomon/zynomon.svg?style=plastic&label=visits&logo=github&logoColor=white">
+  
   <a href="https://github.com/zynomon/zynomon">
     <img src="https://img.shields.io/github/stars/zynomon/zynomon?style=plastic&logo=github">
   </a>
@@ -22,6 +22,13 @@ zynomon?
   </a>
 </p>
 
+## 🛠 Tech Stack
+
+[![Debian](https://img.shields.io/badge/-A81D33?logo=debian&logoColor=fff)](#)
+[![KDE Plasma](https://img.shields.io/badge/-1D99F3?logo=kde&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/-FCC624?logo=linux&logoColor=black)](#)
+[![Bash](https://img.shields.io/badge/-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
   
 ```
 Yo wsp ?, 
