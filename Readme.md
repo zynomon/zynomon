@@ -5,8 +5,7 @@ zynomon?
 </p>
 
 [![Hits](https://hits.sh/github.com/zynomon/zynomon.svg?style=for-the-badge&label=vists&color=0014e2&labelColor=000000&logo=github)](https://hits.sh/github.com/zynomon/zynomon/)
-[![Email](https://img.shields.io/badge/Email-6D4AFF?logo=protonmail&logoColor=white?style=for-the-badge&label=zynomon%40proton.me&color=0014e2&labelColor=000000&logo=protonmail     )](mailto:zynomon@proton.me)
-
+[![Email](https://img.shields.io/badge/Email-6D4AFF?logo=protonmail&logoColor=white&style=for-the-badge&label=zynomon%40proton.me&color=0014e2&labelColor=000000)](mailto:zynomon@proton.me)
 ## ￭ Quick finds
 
 [![Discord](https://img.shields.io/badge/-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/zynomon)
