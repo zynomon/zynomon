@@ -62,5 +62,5 @@ Yo wsp ?,
 --- 
 
 
-<img src="https://raw.githubusercontent.com/zynomon/zynomon/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zynomon/output/snake.svg" alt="Snake animation" />
 
