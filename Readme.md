@@ -10,37 +10,27 @@ zynomon?
 <a href="https://discord.com/users/zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-%235865F2?logo=discord&logoColor=white" alt="Discord">
 </a> <code>@zynomon is the username</code>
-<br><br>
-
 <a href="https://gitlab.com/zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab">
 </a>
-<br><br>
 <a href="mailto:zynomon@proton.me" target="_blank">
   <img src="https://img.shields.io/badge/-6D4AFF?logo=protonmail&logoColor=fff" alt="Proton Mail">
 </a> <code>zynomon@proton.me</code>
-<br><br>
-
 <a href="https://youtube.com/@zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white" alt="YouTube">
 </a>
-<br><br>
-
 <a href="https://reddit.com/u/zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-FF4500?logo=reddit&logoColor=white" alt="Reddit">
 </a>
-<br><br>
-
 <a href="https://codeberg.org/zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-2185D0?logo=codeberg&logoColor=fff" alt="Codeberg">
 </a>
-<br><br>
 <a href="https://instagram.com/zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-E4405F?logo=instagram&logoColor=white" alt="Instagram">
 </a>
-<br><br>
 <img src="https://img.shields.io/badge/-green?logo=open-source-initiative&logoColor=white" alt="Open Source">
 <img src="https://hits.sh/github.com/zynomon/zynomon.svg?logo=github&logoColor=white" alt="GitHub Hits">
+</div>
 
 ## 🛠 Tech Stack
 
