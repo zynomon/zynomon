@@ -2,18 +2,45 @@ zynomon?
 
 <p align="center">
   <img width="1123" height="794" alt="just a test image" src="https://github.com/zynomon/zynomon/raw/main/cool-image.svg" />
-
-  <a href="https://zynomon.github.io/">
-    <img src="https://img.shields.io/badge/Visit%20Website-blue?style=plastic&logo=google-chrome&logoColor=white">
-  </a>
-  <img src="https://img.shields.io/badge/License-Apache%202.0-green?style=plastic&logo=open-source-initiative&logoColor=white">
-  <img src="https://img.shields.io/badge/Platform-Linux-orange?style=plastic&logo=linux&logoColor=white">
-  <img src="https://hits.sh/github.com/zynomon/zynomon.svg?style=plastic&label=visits&logo=github&logoColor=white">
-  <a href="https://discord.gg/Jn7FBwu99F">
-    <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=plastic&logo=discord&logoColor=white">
-  </a>
 </p>
 
+<div align='left'>
+<h2>￭ Quick finds</h2>
+
+<a href="https://discord.com/users/zynomon" target="_blank">
+  <img src="https://img.shields.io/badge/-%235865F2?logo=discord&logoColor=white" alt="Discord">
+</a> <code>@zynomon is the username</code>
+<br><br>
+
+<a href="https://gitlab.com/zynomon" target="_blank">
+  <img src="https://img.shields.io/badge/-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab">
+</a>
+<br><br>
+<a href="mailto:zynomon@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/-6D4AFF?logo=protonmail&logoColor=fff" alt="Proton Mail">
+</a> <code>zynomon@proton.me</code>
+<br><br>
+
+<a href="https://youtube.com/@zynomon" target="_blank">
+  <img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white" alt="YouTube">
+</a>
+<br><br>
+
+<a href="https://reddit.com/u/zynomon" target="_blank">
+  <img src="https://img.shields.io/badge/-FF4500?logo=reddit&logoColor=white" alt="Reddit">
+</a>
+<br><br>
+
+<a href="https://codeberg.org/zynomon" target="_blank">
+  <img src="https://img.shields.io/badge/-2185D0?logo=codeberg&logoColor=fff" alt="Codeberg">
+</a>
+<br><br>
+<a href="https://instagram.com/zynomon" target="_blank">
+  <img src="https://img.shields.io/badge/-E4405F?logo=instagram&logoColor=white" alt="Instagram">
+</a>
+<br><br>
+<img src="https://img.shields.io/badge/-green?logo=open-source-initiative&logoColor=white" alt="Open Source">
+<img src="https://hits.sh/github.com/zynomon/zynomon.svg?logo=github&logoColor=white" alt="GitHub Hits">
 
 ## 🛠 Tech Stack
 
