@@ -60,3 +60,7 @@ Yo wsp ?,
 ```
 
 --- 
+
+
+<img src="https://raw.githubusercontent.com/zynomon/zynomon/output/snake.svg" alt="Snake animation" />
+
