@@ -4,6 +4,9 @@ zynomon?
   <img width="1123" height="794" alt="just a test image" src="https://github.com/zynomon/zynomon/raw/main/cool-image.svg" />
 </p>
 
+[![Hits](https://hits.sh/github.com/zynomon/zynomon.svg?style=for-the-badge&label=vists&color=0014e2&labelColor=000000&logo=github)](https://hits.sh/github.com/zynomon/zynomon/)
+[![Email](https://img.shields.io/badge/Email-6D4AFF?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:zynomon@proton.me) `zynomon@proton.me`
+
 ## ￭ Quick finds
 
 [![Discord](https://img.shields.io/badge/-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.com/users/zynomon)
@@ -12,9 +15,6 @@ zynomon?
 [![Reddit](https://img.shields.io/badge/-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/zynomon)
 [![Codeberg](https://img.shields.io/badge/-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/zynomon)
 [![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/zynomon)
-![Open Source](https://img.shields.io/badge/-green?logo=opensourceinitiative&logoColor=white&style=for-the-badge)
-[![Hits](https://hits.sh/github.com/zynomon/zynomon.svg?style=for-the-badge&label=vists&color=0014e2&labelColor=000000&logo=github)](https://hits.sh/github.com/zynomon/zynomon/)
-[![Email](https://img.shields.io/badge/-6D4AFF?logo=protonmail&logoColor=white&style=for-the-badge)](mailto:zynomon@proton.me) `zynomon@proton.me`
 
 ## 🛠 Tech Stack
 
