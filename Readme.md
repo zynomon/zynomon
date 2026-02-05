@@ -9,13 +9,10 @@ zynomon?
 
 <a href="https://discord.com/users/zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-%235865F2?logo=discord&logoColor=white" alt="Discord">
-</a> <code>@zynomon is the username</code>
+</a>
 <a href="https://gitlab.com/zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-FC6D26?logo=gitlab&logoColor=fff" alt="GitLab">
 </a>
-<a href="mailto:zynomon@proton.me" target="_blank">
-  <img src="https://img.shields.io/badge/-6D4AFF?logo=protonmail&logoColor=fff" alt="Proton Mail">
-</a> <code>zynomon@proton.me</code>
 <a href="https://youtube.com/@zynomon" target="_blank">
   <img src="https://img.shields.io/badge/-FF0000?logo=youtube&logoColor=white" alt="YouTube">
 </a>
@@ -30,6 +27,9 @@ zynomon?
 </a>
 <img src="https://img.shields.io/badge/-green?logo=open-source-initiative&logoColor=white" alt="Open Source">
 <img src="https://hits.sh/github.com/zynomon/zynomon.svg?logo=github&logoColor=white" alt="GitHub Hits">
+<a href="mailto:zynomon@proton.me" target="_blank">
+  <img src="https://img.shields.io/badge/Email-6D4AFF?logo=protonmail&logoColor=fff" alt="Proton Mail">
+</a> <code>zynomon@proton.me</code>
 </div>
 
 ## 🛠 Tech Stack
