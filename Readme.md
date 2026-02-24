@@ -43,12 +43,12 @@ Yo wsp ?,
 ![HTML](https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Inkscape](https://img.shields.io/badge/-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
-![Daisy ui](https://img.shields.io/badge/F2CA30-?style=for-the-badge&logo=daisyui&logoColor=white) 
+![Daisy ui](https://img.shields.io/badge/-F2CA30?style=for-the-badge&logo=daisyui&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
 <!-- Soon.. ![Godot Engine](https://img.shields.io/badge/-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 -->
 
-## 
+<div align=center>
 ![](https://github-readme-stats.vercel.app/api?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zynomon&theme=transparent&hide_border=false)<br/>
@@ -56,5 +56,6 @@ Yo wsp ?,
 ![](https://github-profile-trophy.vercel.app/?username=zynomon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![](https://github-contributor-stats.vercel.app/api?username=zynomon&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 [![](https://visitcount.itsvg.in/api?id=zynomon&icon=9&color=13)](https://visitcount.itsvg.in)
+</div>
 
 --- 
