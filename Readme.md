@@ -49,13 +49,14 @@ Yo wsp ?,
 -->
 
 <div align=center>
-<hr>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"><br>
-<img src="https://nirzak-streak-stats.vercel.app/?user=zynomon&theme=transparent&hide_border=false"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br>
-<img src="https://github-profile-trophy.vercel.app/?username=zynomon&theme=radical&no-frame=false&no-bg=true&margin-w=4"><br>
-<img src="https://github-contributor-stats.vercel.app/api?username=zynomon&limit=5&theme=transparent&combine_all_yearly_contributions=true"><br>
-<img src="https://visitcount.itsvg.in/api?id=zynomon&icon=9&color=13">
+
+<hr>  
+<img src="https://github-readme-stats.vercel.app/api?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt=""><br>
+<img src="https://github-readme-stats.vercel.app/api?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt=""><br>
+<img src="https://nirzak-streak-stats.vercel.app/?user=zynomon&theme=transparent&hide_border=false" alt=""><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""><br>
+<img src="https://github-profile-trophy.vercel.app/?username=zynomon&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt=""><br>
+<img src="https://github-contributor-stats.vercel.app/api?username=zynomon&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt=""><br>
+<img src="https://visitcount.itsvg.in/api?id=zynomon&icon=9&color=13" alt="">
+
 </div>
