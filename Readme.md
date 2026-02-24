@@ -36,7 +36,6 @@ Yo wsp ?,
 ![Debian](https://img.shields.io/badge/-A81D33?logo=debian&logoColor=white&style=for-the-badge)
 ![KDE Plasma](https://img.shields.io/badge/-1D99F3?logo=kde&logoColor=white&style=for-the-badge)
 ![Linux](https://img.shields.io/badge/-FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Bash](https://img.shields.io/badge/-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 ![Qt](https://img.shields.io/badge/-2CDE85?logo=Qt&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
