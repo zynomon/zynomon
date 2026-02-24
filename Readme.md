@@ -41,7 +41,7 @@ Yo wsp ?,
 ![Qt](https://img.shields.io/badge/-2CDE85?logo=Qt&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=for-the-badge)]
 ![Inkscape](https://img.shields.io/badge/-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
 ![Daisy ui](https://img.shields.io/badge/-F2CA30?style=for-the-badge&logo=daisyui&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
