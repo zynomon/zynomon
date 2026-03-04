@@ -30,6 +30,7 @@ Yo wsp ?,
 [![Reddit](https://img.shields.io/badge/-FF4500?logo=reddit&logoColor=white&style=for-the-badge)](https://reddit.com/u/zynomon)
 [![Codeberg](https://img.shields.io/badge/-2185D0?logo=codeberg&logoColor=white&style=for-the-badge)](https://codeberg.org/zynomon)
 [![Instagram](https://img.shields.io/badge/-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/zynomon)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N51VCTSU)
 
 ## 🛠 Tech Stack
 
