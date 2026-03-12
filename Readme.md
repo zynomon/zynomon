@@ -48,7 +48,7 @@ Yo wsp ?,
 <!-- Soon.. ![Godot Engine](https://img.shields.io/badge/-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 -->
 
-<div align=center>
+<div align=left>
 
 <hr>
 
