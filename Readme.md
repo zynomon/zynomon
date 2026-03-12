@@ -50,8 +50,8 @@ Yo wsp ?,
 
 <div align=center>
 
-<hr>  
-<img src="https://github-readme-stats.vercel.app/api?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt=""><br>
+<hr>
+
 <img src="https://github-readme-stats.vercel.app/api?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt=""><br>
 <img src="https://nirzak-streak-stats.vercel.app/?user=zynomon&theme=transparent&hide_border=false" alt=""><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zynomon&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt=""><br>
